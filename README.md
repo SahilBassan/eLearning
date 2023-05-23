@@ -1,5 +1,8 @@
 How to run :-
 Step 1 : Install Xampp
+
+
+
 Step 2 : After downloading file paste it into Xampp/htdocs folder
 Step 3 : Open Xampp
 Step 4 : Start Xampp and then Admin Xampp
