@@ -1,16 +1,22 @@
-How to run :-
+Steps to install project on your system :-
 Step 1 : Install Xampp
 
-
-
 Step 2 : After downloading file paste it into Xampp/htdocs folder
+
 Step 3 : Open Xampp
+
 Step 4 : Start Xampp and then Admin Xampp
+
 Step 5 : Start mySql and then Admin mySql
+
 Step 6 : Open this url in browser http://localhost/phpmyadmin/
+
 Step 7 : Tap on new in left side and the go to SQL section from top options
+
 Step 8 : After going to SQL type      CREATE DATBASE singup 
+
 Step 9 : after typing this tap on GO below the screen
+
 Step 10 : paste this url in browser http://localhost/eLearning/index.html
 
 You are ready to Go !
