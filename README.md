@@ -1,4 +1,5 @@
 Steps to install project on your system :-
+
 Step 1 : Install Xampp
 
 Step 2 : After downloading file paste it into Xampp/htdocs folder
