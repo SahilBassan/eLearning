@@ -11,7 +11,7 @@ Step 8 : After going to SQL type      CREATE DATBASE singup  <br>
 Step 9 : after typing this tap on GO below the screen <br>
 Step 10 : paste this url in browser http://localhost/eLearning/index.html
 
-You are ready to Go !
+You are ready to Go ! <br>
 For any doubts you can reach me on LinkedIn : https://www.linkedin.com/in/sahilbassan/
 
 SNAPSHOTS
