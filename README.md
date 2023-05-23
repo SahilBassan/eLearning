@@ -1,12 +1,9 @@
 Steps to install project on your system :-
 
-Step 1 : Install Xampp
-
-Step 2 : After downloading file paste it into Xampp/htdocs folder
-
-Step 3 : Open Xampp
-
-Step 4 : Start Xampp and then Admin Xampp
+Step 1 : Install Xampp <br>
+Step 2 : After downloading file paste it into Xampp/htdocs folder <br>
+Step 3 : Open Xampp <br>
+Step 4 : Start Xampp and then Admin Xampp <br>
 
 Step 5 : Start mySql and then Admin mySql
 
